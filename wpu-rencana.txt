@@ -1,0 +1,3 @@
+Rencana WPU
+- Belajar Python
+- Memperdalam MySql  
