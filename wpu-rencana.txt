@@ -1,0 +1,5 @@
+Rencana WPU
+- Belajar Python
+- Memperdalam MySql  
+- Belajar C++
+- Library CSS
