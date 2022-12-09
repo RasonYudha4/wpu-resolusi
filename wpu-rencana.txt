@@ -1,6 +1,8 @@
 Rencana WPU
 - Belajar Python
 - Memperdalam MySql  
+- Membuat Website Online Shop 
 - Belajar C++
 - Library CSS
 - Membuat Website Sosial Media
+
